@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Evaliuna.
-- 👀 I’m interested in CSE.
+- 👋 Hi, I’m Eva.
+- 👀 I’m currently pursuing BSc in CSE at Daffodil International University.
 - 🌱 I’m currently learning programming languages.
 - 💞️ I’m looking forward to collaborating with other programmers to develop my skills.
  
