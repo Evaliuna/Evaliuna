@@ -2,7 +2,7 @@
 💞️ I’m currently pursuing BSc in CSE at Daffodil International University.<br>🌱 I’m currently learning programming languages.<br>👀 I’m looking forward to collaborating with other programmers to develop my skills.
 
 👤**Check out my Portfolio:**
-[![Portfolio](https://img.sheilds.io/badges/Portfolio-Mosammat Samiea Jahan Eva-blue?style=for-the-badge&logo=github)](https://evaliuna.github.io)
+[![Portfolio](https://img.sheilds.io/badges/Portfolio-Evaliuna-blue?style=for-the-badge&logo=github)](https://evaliuna.github.io)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Samiea Jahan Eva](https://www.linkedin.com/in/samiea-jahan-eva-383678274/)) 
