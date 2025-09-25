@@ -3,11 +3,11 @@
 # 👋 Hi, I’m Eva
 💻 Aspiring Software Engineer | 🎓 CSE Student @ DIU | 🚀 Learning Java & Backend Development  
 
-<br><br>
+<br>
 
 👤**Check out my Portfolio:**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Evaliuna-blue?style=for-the-badge&logo=github)](https://evaliuna.github.io)
-
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiea-jahan-eva-383678274/)
 
