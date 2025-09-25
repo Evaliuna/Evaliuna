@@ -32,6 +32,7 @@
 
 [![Eva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Evaliuna&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 <p align="center">
