@@ -34,6 +34,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Evaliuna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 GitHub Trophies
+<p align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=Evaliuna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+</p>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
