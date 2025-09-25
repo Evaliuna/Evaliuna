@@ -32,6 +32,10 @@
 
 [![Eva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Evaliuna&theme=tokyonight&hide_border=false" alt="Eva's GitHub streak"/>
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Evaliuna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
