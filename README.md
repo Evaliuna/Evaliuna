@@ -13,29 +13,21 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <b>Languages:</b><br>
-  <img src="https://skillicons.dev/icons?i=c" title="C" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" />&nbsp;&nbsp;
-</p>
+**Languages:**  
+  <img src="https://skillicons.dev/icons?i=c" title="C" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <!-- Frontend / UI -->
-  <b>Frontend / UI:</b><br>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="50" />
-</p>
+**Frontend / UI:**
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="50" />&nbsp;&nbsp;
 
-<p align="center">
-  <!-- Tools / VCS -->
-  <b>Tools / VCS:</b><br>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />&nbsp;&nbsp;
+
+**Tools / VCS:**
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
-</p>
 
 
 # 📊 GitHub Stats:
