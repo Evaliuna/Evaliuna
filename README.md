@@ -5,15 +5,9 @@
 
 <br>
 
-👤**Check out my Portfolio:**
-[![Portfolio](https://img.shields.io/badge/Portfolio-Evaliuna-blue?style=for-the-badge&logo=github)](https://evaliuna.github.io)
-<br>
+## 🌐 Connect 
+[Portfolio](https://evaliuna.github.io) • [LinkedIn](https://www.linkedin.com/in/samiea-jahan-eva-383678274/)
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/samiea-jahan-eva-383678274"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://evaliuna.github.io"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
-</p>
 
 
 # 💻 Tech Stack:
