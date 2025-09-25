@@ -1,3 +1,5 @@
+![Eva's Banner](./assets/banner.png)
+
 # 👋 Hi, I’m Mosammat Samiea Jahan Eva.
 💞️ I’m currently pursuing BSc in CSE at Daffodil International University.<br>🌱 I’m currently learning programming languages.<br>👀 I’m looking forward to collaborating with other programmers to develop my skills.
 
