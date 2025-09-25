@@ -14,14 +14,14 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Evaliuna&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Evaliuna&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evaliuna&layout=compact&theme=tokyonight" height="180"/>
-</p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Evaliuna&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Eva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night&height180)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
