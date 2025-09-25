@@ -14,74 +14,20 @@
 ## 💻 Tech Stack
 
 **Languages:**<br>
-  <img src="https://skillicons.dev/icons?i=c" title="C" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" title="C" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" />
 
 **Frontend / UI:**<br>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="50" />
 
 
 **Tools / VCS:**<br>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
-
-<style>
-  .skills-section {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-bottom: 24px;
-  }
-  .skills-title {
-    font-size: 1.3rem;
-    font-weight: 600;
-    margin-bottom: 12px;
-    color: #61dafb; /* subtle highlight color */
-  }
-  .icon-row {
-    display: flex;
-    gap: 20px;
-    align-items: center;
-  }
-  .icon-row img {
-    height: 50px;
-    transition: transform 0.3s ease, opacity 0.3s ease;
-    cursor: pointer;
-  }
-  .icon-row img:hover {
-    opacity: 0.85;
-    transform: scale(1.1);
-  }
-</style>
-
-<div class="skills-section">
-  <div class="skills-title">Languages:</div>
-  <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=c" title="C" />
-    <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-    <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  </div>
-</div>
-
-<div class="skills-section">
-  <div class="skills-title">Frontend / UI:</div>
-  <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-    <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-    <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-  </div>
-</div>
-
-<div class="skills-section">
-  <div class="skills-title">Tools / VCS:</div>
-  <div class="icon-row">
-    <img src="https://skillicons.dev/icons?i=git" title="Git" />
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-  </div>
-</div>
 
 
 # 📊 GitHub Stats:
