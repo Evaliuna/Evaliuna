@@ -11,35 +11,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiea-jahan-eva-383678274/)
 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ## 💻 Tech Stack
 
-**Languages:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <!-- Languages -->
+  <b>Languages:</b><br>
+  <img src="https://skillicons.dev/icons?i=c" title="C" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" />&nbsp;&nbsp;
 </p>
 
-**Frontend / UI:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,flutter" />
+  <!-- Frontend / UI -->
+  <b>Frontend / UI:</b><br>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="50" />
 </p>
 
-**Tools / VCS:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <!-- Tools / VCS -->
+  <b>Tools / VCS:</b><br>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
 </p>
 
 
