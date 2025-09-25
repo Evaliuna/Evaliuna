@@ -32,9 +32,24 @@
 
 [![Eva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Evaliuna&theme=tokyonight&hide_border=false" alt="Eva's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Evaliuna&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evaliuna&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Evaliuna&theme=tokyonight&hide_border=false" height="180" />
+</p>
+
+## 📈 Contribution Graph
+[![Eva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 Profile Summary
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Evaliuna&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 ## 🏆 GitHub Trophies
