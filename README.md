@@ -22,7 +22,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Evaliuna&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Eva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night&height180)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night&height150)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -35,17 +35,11 @@
   ![](https://github-profile-trophy.vercel.app/?username=Evaliuna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </p>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Evaliuna&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ## 🔝 Top Contributed Repos
 <p align="center">
