@@ -1,7 +1,8 @@
 ![Eva's Banner](./assets/banner.png)
 
-# 👋 Hi, I’m Mosammat Samiea Jahan Eva.
-💞️ I’m currently pursuing BSc in CSE at Daffodil International University.<br>🌱 I’m currently learning programming languages.<br>👀 I’m looking forward to collaborating with other programmers to develop my skills.
+# 👋 Hi, I’m Eva
+💻 Aspiring Software Engineer | 🎓 CSE Student @ DIU | 🚀 Learning Java & Backend Development  
+
 
 👤**Check out my Portfolio:**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Evaliuna-blue?style=for-the-badge&logo=github)](https://evaliuna.github.io)
