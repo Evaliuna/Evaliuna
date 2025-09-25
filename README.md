@@ -8,8 +8,13 @@
 👤**Check out my Portfolio:**
 [![Portfolio](https://img.shields.io/badge/Portfolio-Evaliuna-blue?style=for-the-badge&logo=github)](https://evaliuna.github.io)
 <br>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiea-jahan-eva-383678274/)
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/samiea-jahan-eva-383678274"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://evaliuna.github.io"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
+</p>
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
