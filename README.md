@@ -31,6 +31,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+</p>
+
 
 # 📊 GitHub Stats:
 
