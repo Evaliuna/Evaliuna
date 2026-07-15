@@ -1,4 +1,8 @@
-![Eva's Banner](./assets/banner1.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Hi%20I'm%20Eva&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;AI+Agent+Builder;C%2B%2B+Problem+Solver;Building+one+phase+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <div align="center">
 
@@ -14,48 +18,43 @@
 
 </div>
 
-<br>
-<br>
+<br/>
 
 ---
 
+## 👩‍💻 About Me
 
-## 👋 Hi, I'm Eva
-
-I'm a **CSE student at Daffodil International University** on a structured path toward becoming a **Full Stack Software Engineer**. I'm building my foundation layer by layer — sharpening problem-solving with C++, learning Java for enterprise backend development, and working through a 6-phase Full Stack roadmap that takes me from Web Foundations all the way to DevOps & Deployment.
-
-
+- 🎓 Third-year CSE student at **Daffodil International University**
+- 🔨 Currently learning **Python backend development** and **AI agent building**
+- 🧠 Sharpening problem-solving daily with **C++ DSA**
+- 🎯 Goal: Land my first **backend or AI internship** and grow into a software engineer
+- 💡 I learn best by building — every concept gets a project
+- 🌱 Always improving, never switching tracks randomly (anymore 😅)
 
 ---
-
-<br>
-<br>
 
 ## 🗺️ My Learning Roadmap
 
-I'm following a structured **Java Full Stack path** (6 phases) while building my problem-solving muscle in parallel.
+Building toward **Python backend + AI engineering** while strengthening problem-solving fundamentals in parallel.
 
 ```
 CURRENT FOCUS
-├── 🔢 C++ DSA          → Daily problem solving to build algorithmic thinking
-└── 🌐 Phase 01         → Web Foundations (HTML · CSS · JavaScript · Git)
+├── 🔢 C++ DSA            → Daily problem solving to build algorithmic thinking
+└── 🐍 Python Backend     → Core Python, REST APIs, FastAPI / Django
 
 UP NEXT
-├── ⚛️  Phase 02         → Frontend with React (component-driven UIs)
-└── ☕  Phase 03         → Core Java (OOP · Collections · Streams · Multithreading)
+├── 🤖 AI Agents          → LLMs, tool use, agentic workflows
+└── 🧠 RAG & Memory       → Vector stores, retrieval, context management
 
 LATER
-├── 🔧 Phase 04         → Spring Boot + REST APIs
-├── 🗄️  Phase 05         → Databases & ORM (MySQL · PostgreSQL · Hibernate · Redis)
-└── 🚀 Phase 06         → DevOps & Deployment (Docker · CI/CD · AWS)
+├── 🔧 LangChain / LangGraph → Multi-agent orchestration
+├── 🗄️ Databases           → PostgreSQL, Redis, vector DBs
+└── 🚀 Deployment          → Docker, CI/CD, cloud basics
 ```
 
-> **Why C++ alongside Java?** C++ forces you to think at a lower level — memory, efficiency, logic. That sharpness transfers directly into better Java and better system design thinking down the road.
-
+> **Why C++ alongside Python?** C++ forces you to think at a lower level — memory, efficiency, logic. That sharpness transfers directly into better backend thinking and system design down the road.
 
 ---
-<br>
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -64,6 +63,7 @@ LATER
 <p>
   <img src="https://skillicons.dev/icons?i=c" title="C" height="45" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="45" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="45" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" title="Java" height="45" />
 </p>
 
@@ -73,8 +73,7 @@ LATER
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="45" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="45" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" title="React (Learning)" height="45" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" title="React (Learning)" height="45" />
 </p>
 
 **Tools & Version Control**
@@ -85,41 +84,32 @@ LATER
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="45" />
 </p>
 
-**Coming Soon** *(Phase 04–06)*
+**Coming Soon**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" height="45" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" height="45" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" title="Django" height="45" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" height="45" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="45" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" height="45" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" height="45" />
 </p>
 
-
 ---
-<br>
-<br>
 
 ## 🎯 2026 Goals
 
 | Area | Goal | Status |
 |------|------|--------|
 | 🔢 Problem Solving | Solve 100+ DSA problems in C++ | 🔄 In Progress |
-| 🌐 Web Foundations | Complete Phase 01 — HTML, CSS, JS, Git | 🔄 In Progress |
-| ⚛️ React | Complete Phase 02 of roadmap | 📅 Planned |
-| ☕ Java | Complete Phase 03 — Core Java | 📅 Planned |
+| 🐍 Python Backend | Build REST APIs with FastAPI or Django | 🔄 In Progress |
+| 🤖 AI Agents | Build and deploy at least one working AI agent | 📅 Planned |
 | 🛠️ Projects | Publish 3+ original projects on GitHub | 📅 Planned |
 | 🤝 Open Source | Make my first open-source contribution | 📅 Planned |
-| 💼 Career | Land my first internship or dev role | 🎯 Target |
-
+| 💼 Career | Land my first backend or AI internship | 🎯 Target |
 
 ---
 
-<br>
-<br>
-
 ## 📊 GitHub Stats
-
 
 <br/>
 
@@ -133,32 +123,26 @@ LATER
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evaliuna&theme=tokyo-night&hide_border=true&area=true" alt="Eva's GitHub Activity Graph" width="100%"/>
 </div>
 
-
 ---
-
-<br>
-<br>
 
 ## 🏆 Profile Summary
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Evaliuna&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<br>
-<br>
-
+<br/>
 
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </p>
 
-
 <div align="center">
   <sub>
-    Thanks for stopping by! I'm always open to connecting, collaborating, or just talking tech. 
-    <br/>
-    <br/>
+    Thanks for stopping by! I'm always open to connecting, collaborating, or just talking tech.
+    <br/><br/>
     <a href="https://www.linkedin.com/in/samiea-jahan-eva-383678274/">
       <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
