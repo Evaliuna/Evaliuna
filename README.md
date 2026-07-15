@@ -15,7 +15,6 @@
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Evaliuna&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
 
 <br/>
