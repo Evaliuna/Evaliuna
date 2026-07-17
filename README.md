@@ -39,7 +39,7 @@ Building toward **Python backend + AI engineering** while strengthening problem-
 ```
 CURRENT FOCUS
 ├── 🔢 C++ DSA            → Daily problem solving to build algorithmic thinking
-└── 🐍 Python Backend     → Core Python, REST APIs, FastAPI / Django
+└── 🐍 JAVA Backend     → Core Python, REST APIs, FastAPI / Django
 
 UP NEXT
 ├── 🤖 AI Agents          → LLMs, tool use, agentic workflows
