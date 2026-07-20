@@ -51,8 +51,6 @@ LATER
 └── 🚀 Deployment          → Docker, CI/CD, cloud basics
 ```
 
-> **Why C++ alongside Python?** C++ forces you to think at a lower level — memory, efficiency, logic. That sharpness transfers directly into better backend thinking and system design down the road.
-
 ---
 
 ## 🛠️ Tech Stack
